@@ -249,12 +249,12 @@ presentation/customer_churn_retention_analysis_presentation.pptx
 
 ## Key Metrics
 
-|         Metric                 | Result        |
-|                                |               |
-| Total Customers                | 7,032         |
-| Overall Churn Rate             | 26.58%        |
-| Revenue at Risk                | $1,669,570.20 |
-| Total Estimated Annual Revenue | $5,467,932.00 |
+|---------Metric-----------------|-----Result----|
+|--------------------------------|---------------|
+| Total Customers----------------| 7,032---------|
+| Overall Churn Rate-------------| 26.58%--------|
+| Revenue at Risk----------------| $1,669,570.20-|
+| Total Estimated Annual Revenue-| $5,467,932.00-|
 
 ---
 
